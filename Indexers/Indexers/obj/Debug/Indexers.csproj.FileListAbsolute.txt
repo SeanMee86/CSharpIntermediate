@@ -1,0 +1,7 @@
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.pdb

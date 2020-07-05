@@ -1,0 +1,7 @@
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\ClassExercises\ClassExercises\bin\Debug\ClassExercises.exe.config
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\ClassExercises\ClassExercises\bin\Debug\ClassExercises.exe
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\ClassExercises\ClassExercises\bin\Debug\ClassExercises.pdb
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\ClassExercises\ClassExercises\obj\Debug\ClassExercises.csprojAssemblyReference.cache
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\ClassExercises\ClassExercises\obj\Debug\ClassExercises.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\ClassExercises\ClassExercises\obj\Debug\ClassExercises.exe
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\ClassExercises\ClassExercises\obj\Debug\ClassExercises.pdb

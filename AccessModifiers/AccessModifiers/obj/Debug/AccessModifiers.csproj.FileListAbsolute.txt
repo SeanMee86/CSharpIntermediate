@@ -1,0 +1,7 @@
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\Sean\Desktop\code-o\CSharpIntermediate\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb

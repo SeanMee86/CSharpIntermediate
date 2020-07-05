@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Sean\source\repos\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\Sean\source\repos\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\Sean\source\repos\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\Sean\source\repos\Methods\Methods\obj\Debug\Methods.pdb
