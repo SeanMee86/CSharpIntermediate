@@ -1,7 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
+using System.IO;
 using System.Threading.Tasks;
 
 namespace Extensibility
@@ -10,7 +12,7 @@ namespace Extensibility
     {
         static void Main(string[] args)
         {
-            var dbMigrator = new DbMigrator(new ConsoleLogger());
+            var dbMigrator = new DbMigrator(new FileLogger(Directory.GetCurrentDirectory() + "\\log.txt"));
             dbMigrator.Migrate();
         }
     }

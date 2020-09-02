@@ -7,7 +7,7 @@ namespace Extensibility
     {
         private readonly string path;
 
-        private enum MessageType 
+        public enum MessageType 
         {
             Error,
             Info
@@ -19,7 +19,7 @@ namespace Extensibility
         }
         public void LogError(string message)
         {
-            Log(message, MessageType.Error);
+            Log(message, (MessageType) 0);
         }
 
         public void LogInfo(string message)
