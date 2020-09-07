@@ -12,7 +12,6 @@ namespace Inheritance
     {
         public void OfferVoucher()
         {
-            this.
         }
     }
     class Program
